@@ -26,115 +26,90 @@
   ],
   "skills": [
     {
-      "name": "Lorem Ipsum",
-      "level": 90
+      "name": "GenAI",
+      "level": "80"
     },
     {
-      "name": "Dolor Sit Amet",
-      "level": 85
+      "name": "Data Engineering",
+      "level": "90"
     },
     {
-      "name": "Consectetur",
-      "level": 80
+      "name": "LLMs",
+      "level": "80"
     },
     {
-      "name": "Adipiscing",
-      "level": 95
+      "name": "LangChain",
+      "level": "80"
     },
     {
-      "name": "Elit",
+      "name": "Model Fine-tuning",
       "level": 70
     },
     {
-      "name": "Sed Do",
-      "level": 88
+      "name": "MLOps",
+      "level": "80"
     },
     {
-      "name": "adobe",
-      "level": "77"
+      "name": "PL/SQL",
+      "level": "90"
+    },
+    {
+      "name": "Python",
+      "level": "95"
+    },
+    {
+      "name": "ETL",
+      "level": "95"
+    },
+    {
+      "name": "Data Modelling ",
+      "level": "95"
     }
   ],
   "experience": [
     {
-      "company": "Lorem Ipsum Corporation",
-      "role": "Dolor Sit Amet",
-      "duration": "Jan 2020 - Present",
-      "place": "Lorem, USA"
+      "company": "Digitech Services Inc.",
+      "role": "Research Analyst Intern",
+      "duration": "Jun 2025 - Present",
+      "place": "Boston, USA"
     },
     {
-      "company": "Amet University",
-      "role": "Teaching & Research Assistant",
-      "duration": "Sep 2017 – Feb 2019",
-      "place": "Dolor, USA"
+      "company": "Teradyne",
+      "role": "Business Analyst Intern",
+      "duration": "Jan 2025 – May 2025",
+      "place": "North Reading, USA"
     },
     {
-      "company": "Consectetur Group",
-      "role": "Intern",
-      "duration": "Jul 2016 - Aug 2017",
-      "place": "Ipsum, India"
-    },
-    {
-      "company": "Elit Design Labs",
-      "role": "Junior Intern",
-      "duration": "Jan 2015 - Jun 2016",
-      "place": "Lorem, India"
+      "company": "Accenture",
+      "role": "Data Engineer",
+      "duration": "Oct 2021 - Jul 2024",
+      "place": "Pune, India"
     }
   ],
   "education": [
     {
-      "school": "Lorem Ipsum University",
-      "degree": "Master of Dolor Sit Amet",
-      "duration": "May 2020",
-      "place": "Lorem, USA"
+      "school": "Arizona State University",
+      "degree": "Master's of Science in Business Analytics",
+      "duration": "May 2025",
+      "place": "Tempe, USA"
     },
     {
-      "school": "Dolor Amet Institute",
-      "degree": "Bachelor of Consectetur",
-      "duration": "May 2016",
-      "place": "Ipsum, India"
-    },
-    {
-      "school": "Institutes",
-      "degree": "Instituteee",
-      "duration": "May 2010",
-      "place": "Chennai, India"
+      "school": "Savitribai Phule Pune University",
+      "degree": "Bachelor's of Engineering ",
+      "duration": "May 2021",
+      "place": "Pune, India"
     }
   ],
   "achievements": [
     {
-      "title": "Lorem Ipsum Award",
+      "title": "ACE Award",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "icon": "FaTrophy"
     },
     {
-      "title": "Dolor Sit Conference",
+      "title": "Star of the Month",
       "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "icon": "FaMicrophone"
-    },
-    {
-      "title": "Consectetur Certification",
-      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "icon": "FaCertificate"
-    },
-    {
-      "title": "Adipiscing Membership",
-      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "icon": "FaAdn"
-    },
-    {
-      "title": "Elit Recognition",
-      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
-      "icon": "FaAddressCard"
-    },
-    {
-      "title": "Recognition",
-      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
-      "icon": "FaAllergies"
-    },
-    {
-      "title": "Adipiscing",
-      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
-      "icon": "FaStar"
     }
   ],
   "what_i_offer": [
